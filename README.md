@@ -4,7 +4,7 @@
 <h4>I'm in love with 😍 Javascript 😍</h4>
 
 
-<!-- Here are some ideas to get you started:
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently Studing
 - 🌱 I’m currently learning web development,Gatsbyjs
@@ -29,7 +29,7 @@
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjamil336&show_icons=true&theme=radical)
- -->
+ 
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjamil336&" alt="rjamil336" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjamil336&" alt="rjamil336" /></p> 
